@@ -28,7 +28,7 @@ This project is licensed under the MIT License.
 
 ## 🌐 Demo
 🎮 Try out the Rock Paper Scissors game right in your browser.
-🔗 [Live Demo](https://LakshmiPriyaRajaram.github.io/RockPaperScissors)
+🔗 [Live Demo](https://LakshmiPriyaRajaram.github.io/Rock-paper-scissor)
 
 Have fun playing! ✂️🪨📄
 
